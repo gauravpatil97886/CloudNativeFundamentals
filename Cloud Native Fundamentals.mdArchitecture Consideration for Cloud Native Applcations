@@ -47,8 +47,8 @@ Architecture Considerations lesson outline
 - Practices for Application Development
 
 -------------------
-
-# Design Considerations for Cloud-Native Applications
+# (LESSON2)Architecture Consideration for Cloud Native Applications
+## Design Considerations for Cloud-Native Applications
 
 When building an application it is important to allocate time for context discovery. This includes listing all necessary functionalities of the application and enumerating any resources that can enable its buildout. This phase sets the fundamentals of the project. If properly implemented, it can enable the creation of services that are scalable, resilient, and extensible.
 
@@ -123,7 +123,8 @@ In this case, the UI remains the website that the user interacts with. However, 
 *Microservice:* application design where application tiers are managed as independent, smaller units
 Further reading
 What’s the Difference Between Monolith and Microservices?
-Microservices vs Monolithic Architecture
+Microservices vs Monolithic Architectur
 
 
 --------------------------
+
